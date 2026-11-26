@@ -3,7 +3,7 @@ De BGT Bevraging API is bedoeld om BGT object gegevens op te vragen uit de lande
 grootschalige topografie (LV BGT) en deze te muteren of om een bronhouder registratie mee bij te werken. 
 
 Via dit platform wordt de technische informatie omtrent de BGT Bevraging API beschikbaar gesteld.
-Zie voor de laatste ontwikkelingen de informatie onder [Releasenotes](https://github.com/kadaster/bgt-bevraging-api/tree/master/Releasenotes).
+Zie voor de laatste ontwikkelingen de informatie onder [Releasenotes](https://github.com/kadaster/bgt-bevraging-api/tree/master/Documentatie/Releasenotes).
 
 Raadpleeg voor meer informatie over de BGT API de pagina [BGT Bevraging API](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/bgt/bgt-producten) op de website van het Kadaster.
 
