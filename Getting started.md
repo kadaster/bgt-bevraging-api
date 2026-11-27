@@ -83,7 +83,7 @@ Het gebruik van de BGT Bevraging API is kosteloos. Bij het gebruik van deze serv
   
 ## Implementeer de API client  
   
-Client code kan worden gegenereerd met de “[genereervariant](https://api.bgt.kadaster.nl/bevraging/v1/openapi.yaml)” van de API-specificaties en een code generator. Een overzicht met codegeneratoren is te vinden op [OpenAPI.Tools.](https://openapi.tools/#sdk)  
+Client code kan worden gegenereerd met de API-specificaties ([openapi.json](https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Technische%20specificaties/openapi.json) of [openapi.yaml](https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Technische%20specificaties/openapi.yaml)) en een code generator. Een overzicht met codegeneratoren is te vinden op [OpenAPI.Tools](https://openapi.tools/#sdk).
   
 ## Probeer en test de API  
   
