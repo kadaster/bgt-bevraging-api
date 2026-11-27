@@ -31,8 +31,8 @@ Hiermee kan de status van de verwerking van een bevraging gevolgd worden of het 
 ### Zoekingangen van de verschillende endpoints  
   
 Elk endpoint beschikt over een eigen set aan gegevens en elk endpoint is door middel van verschillende zoekingangen te bevragen.  
-In de tabel [Wat zit in welk endpoint](https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Documentatie/Wat%20zit%20in%20welk%20endpoint_.pdf) is af te lezen welke zoekingangen mogelijk zijn bij de verschillende endpoints en welke informatie dit oplevert.
-  
+In de tabel [Wat zit in welk endpoint](https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Documentatie/Wat%20zit%20in%20welk%20endpoint.pdf) is af te lezen welke zoekingangen mogelijk zijn bij de verschillende endpoints en welke informatie dit oplevert.
+
 ###   Algemene functionaliteit  
   
 Er zijn een aantal algemene functies die gelden voor bovenstaande aanvragen:  
@@ -43,7 +43,7 @@ Er zijn een aantal algemene functies die gelden voor bovenstaande aanvragen:
 
 •	Sommige resources bevatten geometrie. De API ondersteunt op dit moment alleen het RD coördinatenstelsel (epsg:28992). Bij een aanvraag die geometrie teruglevert, moet de request header Accept-Crs worden meegestuurd.
 
-Voor alle feature beschrijvingen zie: (https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Documentatie/Features/).
+Voor alle feature beschrijvingen zie: [Features](https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Documentatie/Features/).
   
 ### Uitwerking Use cases  
   
