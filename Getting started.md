@@ -12,11 +12,11 @@ Om aan te sluiten kunt u de volgende stappen doorlopen:
   
 ## Functionaliteiten en specificaties  
  
-U kunt de Open API Specificaties (OAS3) van de API bekijken in [Swagger-formaat](https://kadaster.github.io/bgt-bevraging-api/Technische%20specificatie/) of [Redoc.](https://kadaster.github.io/bgt-bevraging-api/Technische%20specificatie/Redoc/)
+U kunt de Open API Specificaties (OAS3) van de API bekijken in [Swagger-formaat](https://kadaster.github.io/bgt-bevraging-api/Technische%20specificatie/) of [Redoc-formaat](https://kadaster.github.io/bgt-bevraging-api/Technische%20specificatie/Redoc/)
 De (resolved) OAS3 is hier te downloaden: 
 
-* [openapi.json](https://api.bgt.kadaster.nl/bevraging/v1/openapi.json).
-* [openapi.yaml](https://api.bgt.kadaster.nl/bevraging/v1/openapi.yaml).
+* [openapi.json](https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Technische%20specificaties/openapi.json).
+* [openapi.yaml](https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Technische%20specificaties/openapi.yaml).
   
 ### Beschikbare endpoints  
   
@@ -87,7 +87,7 @@ Client code kan worden gegenereerd met de “[genereervariant](https://api.bgt.k
   
 ## Probeer en test de API  
   
-De werking van de API is het gemakkelijkst te testen met behulp van [Postman](https://www.getpostman.com/). De [openapi.yaml](https://api.bgt.kadaster.nl/bevraging/v1/openapi.yaml) kan als geïmporteerd als project, waarna de verschillende requests worden ingeladen die deze API ondersteunt.
+De werking van de API is het gemakkelijkst te testen met behulp van [Postman](https://www.getpostman.com/). De [openapi.yaml](https://github.com/kadaster/bgt-bevraging-api/blob/concept-OAS/Technische%20specificaties/openapi.yaml) kan als project geïmporteerd worden, waarna de verschillende requests worden ingeladen die deze API ondersteunt.
   
 ### API Key  
   
